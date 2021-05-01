@@ -10,9 +10,9 @@
 具体详细介绍可前往 [Acttrace 官网](https://www.acttrace.com/) 进行查看。
 
 ## 二、支持平台及插件
-| 平台及插件 | Android | iOS | Flutter | React Native| Unity3D| Cocos2dx| Dcloud| APICloud| Corvoda|
-| :---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 支持|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|
+| Android | iOS | Flutter | React Native| Unity3D| Cocos2dx| Dcloud| APICloud| Corvoda|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|[x]|
 
 ## 一、插件介绍
 此插件是 acttrace 为了方便 APICloud平台用户集成使用 acttrace 功能而开发的，实现了携带参数安装，渠道统计，一键拉起全部功能。
